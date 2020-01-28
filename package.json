@@ -1,0 +1,19 @@
+{
+  "name": "starfall",
+  "version": "1.0.0",
+  "description": "Starfall game using Phaser 3 and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Girish Patel",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "phaser": "^3.22.0",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
